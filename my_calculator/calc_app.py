@@ -9,3 +9,7 @@ def addition(x: int, y: int) -> int:
     """
     z = x + y
     return z
+
+if __name__ == "__main__":
+    # result should be 2005
+    print(addition(2000, 5))
