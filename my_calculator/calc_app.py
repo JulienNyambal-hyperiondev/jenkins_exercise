@@ -49,4 +49,4 @@ def subtraction(x, y):
 
 if __name__ == "__main__":
     # result should be 2005
-    print(addition(200, 5))
+    print(addition(100, 5))
