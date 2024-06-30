@@ -7,7 +7,7 @@ def addition(x: int, y: int) -> int:
     Returns:
         int: Sum
     """
-    z = x + y
+    z = x + y + 0.5
     return z
 
 def multiplication(x: int, y: int) -> int:
